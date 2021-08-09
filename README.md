@@ -1,5 +1,5 @@
 # DLIB
-Minimal Deep learning library with examples heavely inspired by [joelnet]([https://github.com/joelgrus/joelnet]).
+Minimal Deep learning library with examples, heavely inspired by [joelnet]([https://github.com/joelgrus/joelnet]).
 
 ## What has been implemented
 1. Tensor
